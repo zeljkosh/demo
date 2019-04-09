@@ -43,7 +43,7 @@
         <app.mainClass>com.example.demo.DemoApplication</app.mainClass>
 
         <!-- Optional override to specify where the cached files are stored. Default is current working directory -->
-        <app.cacheDir>USERLIB/Atlas</app.cacheDir>
+        <app.cacheDir>USERLIB/Demo</app.cacheDir>
 
         <!-- Optional parameters to the application, will be embedded in the launcher and can be overriden on the command line -->
         <app.parameters>--myOption=myValue --myOtherOption=myOtherValue</app.parameters>
